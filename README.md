@@ -31,7 +31,7 @@ FaceSpark is a lightweight, zero-shot facial expression recognition (FER) system
    cd FaceSpark
    ```
 2. **Create a Conda Environment (optional but recommended)**:
-  ```bash
+   ```bash
    conda create -n FaceSpark python=3.10
    conda activate FaceSpark
    ```
@@ -41,11 +41,12 @@ FaceSpark is a lightweight, zero-shot facial expression recognition (FER) system
    ```
 ### Running the Project
 1. **Launch and Test**:
-  ```bash
-  python main.py
-  ```
+   ```bash
+   python main.py
+   ```
 2. **Interact**:
-  Upload images or start the webcam to detect expressions like “happy” or “sad.”
+
+   Upload images or start the webcam to detect expressions like “happy” or “sad.”
 
 ## Acknowledgments
 Built with Hugging Face Transformers, OpenCV, and Gradio.
